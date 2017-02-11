@@ -1,0 +1,10 @@
+//
+// Created by 张一鸣 on 2017/2/11.
+//
+
+#ifndef PROJECT_USEABSTRACTFUNCTIONTOADD_H
+#define PROJECT_USEABSTRACTFUNCTIONTOADD_H
+
+void useAbstractFunctionToAdd();
+
+#endif //PROJECT_USEABSTRACTFUNCTIONTOADD_H

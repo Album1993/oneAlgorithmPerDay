@@ -1,0 +1,10 @@
+//
+// Created by 张一鸣 on 2017/2/11.
+//
+
+#ifndef PROJECT_USEGENERATERFUNCTIONTOADD_H
+#define PROJECT_USEGENERATERFUNCTIONTOADD_H
+
+void useGeneraterFunctionToAdd();
+
+#endif //PROJECT_USEGENERATERFUNCTIONTOADD_H

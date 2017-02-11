@@ -1,0 +1,10 @@
+//
+// Created by 张一鸣 on 2017/2/11.
+//
+
+#ifndef PROJECT_USEFUNCTIONPOINTERTOADD_H
+#define PROJECT_USEFUNCTIONPOINTERTOADD_H
+
+void  useFuncionpointerToAdd();
+
+#endif //PROJECT_USEFUNCTIONPOINTERTOADD_H
