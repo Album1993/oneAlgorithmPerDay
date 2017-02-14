@@ -2,3 +2,9 @@ add one to N
     1:Use function pointer to add from one to N
     2:Use generater function to add from one to N
     3:Use abstract function to add from one to N
+
+count one in Int number:
+    4:use int number to move right;
+    5:use flag to move left;
+    6:use and function to count;
+    ps : 7: use or function to count zero in int number;
